@@ -146,6 +146,7 @@ img{
   background-image: url(fv-bgi_02@2x.jpg);
   background-size: cover;
   background-position: center; 
+  margin-top:-23px;
  }
 
 .fv img{
