@@ -143,13 +143,11 @@ img{
 /* fv
 /* ---------------------------- */
 .fv{
-  height: 100vh;
-  min-height: 550px;
-  position: relative;
-  background-image: url(fv-bgi_02@2x.jpg);
-  background-size: cover;
-  background-position: center;
-}
+  height: 453px;
+   position: relative;
+   background-image: url(contact-bgi@2x.jpg);  
+ }
+
 .fv img{
   object-fit: cover;
   height: 100vh;
