@@ -16,7 +16,10 @@ img{
 }
 
 .section-wrapper{
-  padding: 100px 0 70px;
+  height: 453px;
+   position: relative;
+   background-image: url(../images/contact-bgi@2x.jpg);  
+ }
 }
 .section-title{
   max-width: 1000px;
