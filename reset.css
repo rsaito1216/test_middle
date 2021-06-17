@@ -13,10 +13,6 @@ html{
 	background:#FFF;
 	
 }
-*{
-margin:0;
-padding:0;
-}
 /*
 	TODO remove settings on BODY since we can't namespace it.
 */
